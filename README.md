@@ -1,106 +1,222 @@
-# Hi, I'm Giri Chowdari Vemana 👋
-### 🚀 Building Scalable Backend Systems & Intelligent AI-Powered Solutions
+# 👋 Hi, I'm Giri Chowdari Vemana
 
-I am a Computer Science Engineer focused on designing high-performance backend architectures, Generative AI applications, and machine learning systems that solve complex, real-world engineering challenges. My work combines robust software engineering with modern AI technologies to build scalable APIs, intelligent automation workflows, and production-ready ML solutions.
+### 🚀 Backend Developer | AI/ML Engineer | GenAI Enthusiast
 
----
-
-## 💡 About Me
-
-*   🎓 **Education:** Computer Science and Engineering Graduate
-*   🐍 **Backend Focus:** Backend Developer specializing in Python ecosystems, asynchronous APIs, and robust data layers.
-*   🤖 **AI/ML Focus:** AI/ML Engineer focused on LLM applications, RAG systems, and intelligent automation.
-*   ☁️ **Passions:** Cloud Automation, Cybersecurity Analytics, and Distributed Systems.
-*   🔍 **Research Interests:** Applying Machine Learning to Network Security, Threat Detection, and Infrastructure Optimization.
-*   🌱 **Currently Learning:** Deepening my expertise in **FastAPI**, **LangGraph**, Cloud-Native Architectures, and Production AI Systems.
+*Building scalable backend systems, intelligent automation workflows, and AI-powered applications that solve real-world engineering problems.*
 
 ---
 
-## 🛠️ Core Technology Stack
+## 🚀 About Me
 
-### 💻 Languages & Databases
-*   **Languages:** Python *(Advanced)*, C++ *(Intermediate)*, SQL *(Advanced)*
-*   **Databases:** PostgreSQL, SQLite
+I'm a Computer Science and Engineering student with hands-on experience developing backend applications, AI-powered systems, and automation solutions.
 
-### ⚙️ Backend Engineering
-*   **Frameworks:** FastAPI, Django
-*   **Architecture:** REST APIs, Service-Oriented Architectures
-*   **Data Validation & ORM:** SQLAlchemy, Pydantic
+My interests lie at the intersection of:
 
-### 🧠 AI/ML & Automation
-*   **Machine Learning:** Classification, Predictive Modeling, Scikit-Learn, XGBoost, TensorFlow
-*   **GenAI & Orchestration:** LangChain, LangGraph, RAG Systems, Knowledge Retrieval
-*   **Automation & LLMs:** n8n Workflow Automation, OpenAI APIs, Gemini APIs, Claude APIs
+* 🐍 Backend Engineering
+* 🤖 Generative AI & LLM Applications
+* ☁️ Cloud & Automation
+* 🔐 Machine Learning for Cybersecurity
+* ⚡ High-Performance API Development
+
+I enjoy designing systems that are reliable, scalable, and production-oriented while continuously exploring emerging technologies in AI and distributed systems.
+
+---
+
+## 🛠️ Core Tech Stack
+
+### 💻 Languages
+
+* Python
+* C++
+* SQL
+
+### 🗄️ Databases
+
+* PostgreSQL
+* SQLite
+* FAISS (Vector Database)
+
+### ⚙️ Backend Development
+
+* FastAPI
+* Django
+* REST APIs
+* SQLAlchemy
+* Pydantic
+* JWT Authentication
+
+### 🤖 AI / ML & Automation
+
+* Machine Learning
+* Scikit-Learn
+* XGBoost
+* TensorFlow
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* n8n Workflow Automation
+
+### 🔗 LLM Integrations
+
+* OpenAI API
+* Gemini API
+* Claude API
+* Groq API
 
 ### ☁️ DevOps & Cloud
-*   **Tools & Infrastructure:** Git & GitHub, AWS, Docker, CI/CD Pipelines
+
+* Git & GitHub
+* Redis
+* LangFuse
+* Docker (Learning)
+* AWS (Learning)
+* CI/CD Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔐 Cyber Attack Detection in Microgrid Sensor Networks
-**Category:** *AI/ML + Cybersecurity*
-> Designed and developed a machine learning-driven intrusion detection system optimized for microgrid sensor networks to identify anomalies and malicious injections.
+## 🔐 Cyber Attack Detection in Microgrid Sensor Networks
 
-*   **Key Highlights:** 
-    *   Engineered an end-to-end data preprocessing pipeline for raw sensor telemetry.
-    *   Implemented multi-class attack classification utilizing **XGBoost** and **TensorFlow**.
-    *   Applied Explainable AI (XAI) techniques for transparent model interpretation and threat detection analytics.
-*   **Tech Stack:** `Python`, `Scikit-Learn`, `XGBoost`, `TensorFlow`, `Pandas`, `NumPy`
+Machine Learning-based intrusion detection system designed to identify cyberattacks in Wireless Sensor Networks used within smart microgrid environments.
 
-### ⚡ Production-Ready Backend Platform
-**Category:** *High-Performance Backend Engineering*
-> Developed scalable, modular backend services using modern Python frameworks designed for heavy query optimization and security.
+### Highlights
 
-*   **Key Highlights:**
-    *   Designed a secure RESTful API architecture with robust authentication and authorization layers.
-    *   Optimized SQL query execution and database performance tuning using **SQLAlchemy** and **PostgreSQL**.
-    *   Enforced strict type-safety and request validation via **Pydantic**.
-*   **Tech Stack:** `FastAPI`, `Django`, `PostgreSQL`, `SQLAlchemy`, `Pydantic`
+* Built end-to-end data preprocessing pipelines
+* Multi-class attack classification
+* Explainable AI using SHAP and LIME
+* Threat detection and mitigation strategies
+* Real-time monitoring dashboard
 
-### 🤖 Intelligent Cloud Automation Platform
-**Category:** *AI + Workflow Automation*
-> Built event-driven cloud automation workflows integrating large language models with production business logic pipelines.
+### Tech Stack
 
-*   **Key Highlights:**
-    *   Orchestrated multi-agent automated workflows using **n8n** and custom webhook nodes.
-    *   Implemented LLM-powered decision-making agents utilizing **Gemini**, **Claude**, and **OpenAI** APIs.
-    *   Deployed scalable, cloud-native process automation pipelines.
-*   **Tech Stack:** `n8n`, `OpenAI API`, `Gemini API`, `Claude API`, `AWS`
+Python • Scikit-Learn • XGBoost • TensorFlow • Pandas • NumPy • Flask
 
 ---
 
-## 💼 Professional Experience
+## 📚 RAG Chatbot with FastAPI
 
-### **Backend & AI Engineering Internships**
-*Contributed to remote engineering teams focusing on backend development, cloud technologies, and AI-powered automation.*
+Production-focused Retrieval-Augmented Generation chatbot capable of answering questions from uploaded documents.
 
-*   **API Design:** Developed clean, maintainable RESTful APIs and backend services using FastAPI and Django.
-*   **Cloud Infrastructure:** Leveraged AWS cloud services to support data pipelines and application deployment.
-*   **Automation:** Integrated data-driven solutions and workflow tools to replace manual overhead with scalable scripts.
-*   **Code Standards:** Maintained a strong emphasis on clean code architecture, comprehensive validation, and production readiness.
+### Highlights
+
+* Document ingestion pipeline
+* FAISS vector search
+* Context-aware retrieval
+* Conversational memory
+* FastAPI backend
+* Source-aware responses
+
+### Tech Stack
+
+FastAPI • LangChain • FAISS • PostgreSQL • Pydantic • JWT • Groq Llama 3
+
+### Repository
+
+➡️ https://github.com/GiriCHOWDARI/RAG-chatbot-with-FastAPI
 
 ---
 
-## 📊 Current Focus Areas
+## 🤖 AI Failure Triage Agent
+
+Intelligent system that automates software failure analysis and helps identify root causes using LLM-powered workflows.
+
+### Highlights
+
+* Failure classification
+* Root cause analysis
+* Automated recommendations
+* Semantic caching with Redis
+* Observability using LangFuse
+* Human-in-the-loop review workflow
+
+### Tech Stack
+
+FastAPI • LangChain • Redis • LangFuse • OpenAI • Docker
+
+### Repository
+
+➡️ https://github.com/GiriCHOWDARI/ai-failure-triage-agent
+
+---
+
+## 📝 AI Test Generation Agent
+
+Automated platform that generates software test cases from requirements and specifications using AI agents.
+
+### Highlights
+
+* Requirement analysis
+* Test case generation
+* LLM orchestration
+* Structured output validation
+* API-driven workflow
+
+### Tech Stack
+
+Python • FastAPI • LangChain • Claude API • OpenAI API
+
+---
+
+# 💼 Professional Experience
+
+### Backend & AI Engineering Internships
+
+Contributed to remote engineering projects focused on backend development, AI-powered applications, and automation systems.
+
+#### Key Contributions
+
+* Developed REST APIs using FastAPI and Django
+* Integrated LLM APIs into production workflows
+* Built automation pipelines and data-driven solutions
+* Worked on cloud-hosted application deployments
+* Delivered maintainable, well-documented code
+* Collaborated in distributed remote teams
+
+---
+
+# 📚 Currently Learning
+
+* FastAPI Testing with Pytest
+* Docker & Containerized Deployments
+* LangGraph Multi-Agent Systems
+* AWS Cloud Fundamentals
+* Production RAG Evaluation
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiriCHOWDARI\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiriCHOWDARI\&layout=compact\&theme=github_dark)
+
+---
+
+# 🎯 Current Focus
 
 ```text
-█▓▒░ GenAI Engineering & Multi-Agent Systems (LangGraph)
-█▓▒░ Retrieval-Augmented Generation (RAG) Architectures
-█▓▒░ High-Throughput FastAPI Architectures
-█▓▒░ Machine Learning applied to Network Threat Detection
+█▓▒░ Generative AI Engineering
+█▓▒░ Retrieval-Augmented Generation (RAG)
+█▓▒░ FastAPI Backend Development
+█▓▒░ LangChain & Agent Workflows
+█▓▒░ Machine Learning for Cybersecurity
+█▓▒░ Cloud-Native Applications
+```
 
+---
 
-📫 Connect With Me
+# 🤝 Connect With Me
 
-LinkedIn: linkedin.com/in/giri-chowdari-vemana
+💼 LinkedIn
+https://www.linkedin.com/in/giri-chowdari-vemana-31348a301
 
-GitHub: github.com/GiriCHOWDARI
+💻 GitHub
+https://github.com/GiriCHOWDARI
 
-Email: vemanagirichowdari@gmail.com
+📧 Email
+[vemanagirichowdari@gmail.com](mailto:vemanagirichowdari@gmail.com)
 
-⚡ Engineering reliable backend systems while building the next generation of AI-powered applications.
+---
 
-
-
+### ⚡ Engineering reliable backend systems while building intelligent AI-powered applications.
